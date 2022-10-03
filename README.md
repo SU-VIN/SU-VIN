@@ -45,9 +45,10 @@ Here are some ideas to get you started:
 <hr>
 
 
-<div align=left>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SU-VIN&bg_color=DEG,FFFFFF,79ABFF&icon_color=79ABFF&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align=left src="https://github-readme-stats.vercel.app/api?username=SU-VIN&bg_color=DEG,FFFFFF,79ABFF&icon_color=79ABFF&show_icons=true">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SU-VIN&bg_color=DEG,FFFFFF,79ABFF&icon_color=79ABFF&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<div align=right>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SU-VIN&layout=compact&langs_count=8&bg_color=DEG,FFFFFF,79ABFF&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SU-VIN&layout=compact&langs_count=8&bg_color=DEG,FFFFFF,79ABFF&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
