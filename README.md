@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 
 
 <img align=center src="https://github-readme-stats.vercel.app/api?username=SU-VIN&bg_color=DEG,FFFFFF,79ABFF&icon_color=79ABFF&show_icons=true&count_private=true">
-
+<br>
 <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=SU-VIN&layout=compact&langs_count=8&bg_color=DEG,FFFFFF,79ABFF&show_icons=true">
 
