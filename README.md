@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSU-VIN&count_bg=%23D5E9EB&title_bg=%23709CAC&icon=salesforce.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:79ABFF&height=200&section=header&text=🌊SU-VIN🌊%20&animation=twinkling&fontSize=80&fontColor=FFFFFF&fontAlignY=40)
 <br>
 <h2 align=center> Tech Stack 🤖 </h2>
@@ -33,3 +35,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 	<img src="https://img.shields.io/badge/app store-0d96f6?style=for-the-badge&logo=app store&logoColor=white">
     
+<hr>
