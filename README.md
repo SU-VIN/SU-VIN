@@ -14,21 +14,22 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:79ABFF&height=200&section=header&text=🌊SU-VIN🌊%20&animation=twinkling&fontSize=80&fontColor=FFFFFF&fontAlignY=40)
 <br>
-<h2 align="center"> Tech Stack 🤖 </h2>
+<h2 align=center> Tech Stack 🤖 </h2>
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+<div align=center>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/c sharp-239120?style=for-the-badge&logo=c sharp&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
+	<img src="https://img.shields.io/badge/Android Studio-3ddc84?style=for-the-badge&logo=Android Studio&logoColor=white">
+    <img src="https://img.shields.io/badge/xcode-147efb?style=for-the-badge&logo=xcode&logoColor=white">
 
 
-<img src="https://img.shields.io/badge/C#-#239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>&nbsp 
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
 
 
