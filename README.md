@@ -37,6 +37,7 @@ Here are some ideas to get you started:
     
 
  ### Design🎨
+ <div align=center>
  	<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
     
 <hr>
