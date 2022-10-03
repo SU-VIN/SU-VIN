@@ -52,3 +52,4 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SU-VIN&layout=compact&langs_count=8&bg_color=DEG,FFFFFF,79ABFF&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
