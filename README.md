@@ -34,13 +34,13 @@ Here are some ideas to get you started:
     <br>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 	<img src="https://img.shields.io/badge/app store-0d96f6?style=for-the-badge&logo=app store&logoColor=white">
-</div>
+
 
  ### Design🎨
  <div align=center>
  	<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
  	<img src="https://img.shields.io/badge/CLIP STUDIO-BDBDBD?style=for-the-badge&logo=Abbott&logoColor=white">
-</div>  
+
     
 <hr>
 
