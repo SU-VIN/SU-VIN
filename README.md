@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SU-VIN&bg_color=DEG,FFFFFF,79ABFF&icon_color=79ABFF&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SU-VIN&bg_color=DEG,FFFFFF,79ABFF&icon_color=79ABFF&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
