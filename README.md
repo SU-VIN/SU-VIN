@@ -34,13 +34,13 @@ Here are some ideas to get you started:
     <br>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 	<img src="https://img.shields.io/badge/app store-0d96f6?style=for-the-badge&logo=app store&logoColor=white">
-    
+</div>
 
  ### Design🎨
  <div align=center>
  	<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
  	<img src="https://img.shields.io/badge/CLIP STUDIO-BDBDBD?style=for-the-badge&logo=Abbott&logoColor=white">
-    
+</div>  
     
 <hr>
 
@@ -52,4 +52,3 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SU-VIN&layout=compact&langs_count=8&bg_color=DEG,FFFFFF,79ABFF&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
