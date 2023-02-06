@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     <br>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/app store-0d96f6?style=for-the-badge&logo=app store&logoColor=white">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+
 
 
 
@@ -43,6 +43,7 @@ Here are some ideas to get you started:
  <div align=center>
  	<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
  	<img src="https://img.shields.io/badge/CLIP STUDIO-BDBDBD?style=for-the-badge&logo=Abbott&logoColor=white">
+    <img src="https://img.shields.io/badge/Figma-5B0BB5?style=for-the-badge&logo=Figma&logoColor=white">
 
     
 <hr>
