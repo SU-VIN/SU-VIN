@@ -49,6 +49,14 @@ Here are some ideas to get you started:
 <hr>
 
 
+### 
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://su-vin25.tistory.com)](https://su-vin25.tistory.com) : Tistory Blog
+
+<br>
+
+<hr>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SU-VIN&bg_color=DEG,FFFFFF,79ABFF&icon_color=79ABFF&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
