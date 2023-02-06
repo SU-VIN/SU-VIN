@@ -47,9 +47,11 @@ Here are some ideas to get you started:
 
     
 <hr>
+     
+     
 ### Blog 🖥
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=tistory&link=https://su-vin25.tistory.com/)](https://su-vin25.tistory.com/) :Tistory Blog
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=tistory&link=https://su-vin25.tistory.com/)](https://su-vin25.tistory.com/)
 
 <br>
 
