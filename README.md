@@ -28,6 +28,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">
     <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=black">
     <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=black">
+    <img src="https://img.shields.io/badge/emotion-80C2EE?style=for-the-badge&logo=anki&logoColor=black">
     <br>
     <img src="https://img.shields.io/badge/c sharp-239120?style=for-the-badge&logo=c sharp&logoColor=white">
     <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
