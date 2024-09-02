@@ -29,20 +29,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=black">
     <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=black">
     <img src="https://img.shields.io/badge/emotion-80C2EE?style=for-the-badge&logo=anki&logoColor=black">
-    <br>
-    <img src="https://img.shields.io/badge/c sharp-239120?style=for-the-badge&logo=c sharp&logoColor=white">
-    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
-    <br>
-    <img src="https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-    <br>
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/app store-0d96f6?style=for-the-badge&logo=app store&logoColor=white">
-    <img src="https://img.shields.io/badge/xcode-147efb?style=for-the-badge&logo=xcode&logoColor=white">
-
-
 
 
  ### Design🎨
